@@ -1,23 +1,45 @@
-# Recommender System – Milestone 1
+# AI Enabled Recommendation Engine for an E-commerce Platform
 
-## Objective
-To perform data preparation for an e-commerce recommendation system.
+## Project Overview
+This project implements an AI-based product recommendation system for an e-commerce platform.  
+It predicts whether a product should be recommended based on learned patterns from data.
 
-## Dataset
-- Source: Kaggle – Online Retail Dataset
-- Link: https://www.kaggle.com/datasets/carrie1/ecommerce-data
-- Note: The raw dataset exceeds GitHub’s 25MB file size limit, so it is not uploaded here.
+The project is developed in multiple milestones as part of an internship/academic program.
 
-## Work Done
-- Loaded real-world e-commerce data
-- Handled missing values and duplicate records
-- Extracted customer–product interactions
-- Constructed a user–item interaction matrix
+---
 
-## Tools Used
+## Milestones
+
+### Milestone 1
+- Problem understanding
+- Data collection
+- Initial data exploration
+
+### Milestone 2
+- Data preprocessing
+- Feature engineering
+- Model training and evaluation
+
+### Milestone 3
+- Model optimization
+- Final model selection
+- Saving trained model
+
+### Milestone 4
+- Web application using Flask
+- User interface for product recommendation
+- Deployment using Ngrok
+
+---
+
+## Technologies Used
 - Python
-- Pandas
-- Google Colab
+- Flask
+- Machine Learning
+- HTML & CSS
+- Jupyter Notebook
 
-## Output
-- User–item interaction matrix generated within the notebook
+---
+
+## Project Structure
+
